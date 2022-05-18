@@ -4,12 +4,10 @@
     <latestVersionCode>30502</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	TEST TEST TEST TEST
-- ADDED - ChangeLog
-- ADDED - File Access Permissions Explanation Screen
-- ADDED - This update checker and reminder.
-- CHANGED - ON/OFF text when Pulsetime or Timers are Enabled.
-TEST TEST TEST TEST
+	TEST TEST - Will be used on next release 3.5.3 / 30503
+	- ADDED - ChangeLog
+	- ADDED - File Access Permissions Explanation Screen
+	- ADDED - This update checker and reminder.
     </releaseNotes>
   </update>
 </AppUpdater>

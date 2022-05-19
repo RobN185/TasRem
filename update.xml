@@ -1,13 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.3</latestVersion>
-    <latestVersionCode>30503</latestVersionCode>
+    <latestVersion>3.5.4</latestVersion>
+    <latestVersionCode>30504</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
-	- ADDED - ChangeLog
-	- ADDED - File Access Permissions Explanation Screen
-	- ADDED - This update checker and reminder.
+	- FIXED - Bugfix for Sonoff B1 RGBCCT lamp
+	- OPTIMISED - LED Slider and switch routines optimised.
+	- ADDED - PulseTime is now available for LED Lights
     </releaseNotes>
   </update>
 </AppUpdater>

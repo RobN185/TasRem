@@ -1,14 +1,15 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.5</latestVersion>
-    <latestVersionCode>30505</latestVersionCode>
+    <latestVersion>3.5.6</latestVersion>
+    <latestVersionCode>30506</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
 	- FIXED - Bugfix for Sonoff B1 RGBCCT lamp
-	- OPTIMISED - LED Slider and switch routines optimised.
-	- ADDED - PulseTime is now available for LED Lights
+	- REWRITTEN - LED Slider and switch routines rewritten.
+	- FIXED - PulseTime fix for older Tasmota Devices.
 	- ADDED - Ability to delete offline devices.
+	- AMENDED - Refresh routine in review
     </releaseNotes>
   </update>
 </AppUpdater>

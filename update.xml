@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.6</latestVersion>
-    <latestVersionCode>30506</latestVersionCode>
+    <latestVersion>3.5.7</latestVersion>
+    <latestVersionCode>30507</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
@@ -9,7 +9,7 @@
 	- REWRITTEN - LED Slider and switch routines rewritten.
 	- FIXED - PulseTime fix for older Tasmota Devices.
 	- ADDED - Ability to delete offline devices.
-	- AMENDED - Refresh routine in review
+	- ADDED - Optional Page Turn Animation (in Settings)
     </releaseNotes>
   </update>
 </AppUpdater>

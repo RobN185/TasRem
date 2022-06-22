@@ -1,15 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.7</latestVersion>
-    <latestVersionCode>30507</latestVersionCode>
+    <latestVersion>3.5.8</latestVersion>
+    <latestVersionCode>30508</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
-	- FIXED - Bugfix for Sonoff B1 RGBCCT lamp
-	- REWRITTEN - LED Slider and switch routines rewritten.
-	- FIXED - PulseTime fix for older Tasmota Devices.
-	- ADDED - Ability to delete offline devices.
-	- ADDED - Optional Page Turn Animation (in Settings)
+	- ADDED - Timers will operate up to 8 switches (previously 4 switches)
+	- ADDED - Photos can now be added to device tiles (Premium only) - photos are reduced and saved in local database, and backed-up in the *.TAS files.
     </releaseNotes>
   </update>
 </AppUpdater>

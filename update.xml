@@ -1,12 +1,14 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.8</latestVersion>
-    <latestVersionCode>30508</latestVersionCode>
+    <latestVersion>3.5.9</latestVersion>
+    <latestVersionCode>30509</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
-	- ADDED - Timers will operate up to 8 switches (previously 4 switches)
-	- ADDED - Photos can now be added to device tiles (Premium only) - photos are reduced and saved in local database, and backed-up in the *.TAS files.
+	- REVISED - Device Timers now operate all 16 device switches.
+    - REVISED - Scanner routine improved.
+    - REVISED - Various minor improvements and fixes.
+    - FIXED - Scenes now work with Pulsetime set on a Device.
     </releaseNotes>
   </update>
 </AppUpdater>

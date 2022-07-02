@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.9</latestVersion>
-    <latestVersionCode>30509</latestVersionCode>
+    <latestVersion>3.5.10</latestVersion>
+    <latestVersionCode>30510</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
@@ -9,6 +9,7 @@
     - REVISED - Scanner routine improved.
     - REVISED - Various minor improvements and fixes.
     - FIXED - Scenes now work with Pulsetime set on a Device.
+	- FIXED - Device Consumption error in v.3.5.9.
     </releaseNotes>
   </update>
 </AppUpdater>

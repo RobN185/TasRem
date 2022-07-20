@@ -1,15 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.5.10</latestVersion>
-    <latestVersionCode>30510</latestVersionCode>
+    <latestVersion>3.6.0</latestVersion>
+    <latestVersionCode>30600</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
-	- REVISED - Device Timers now operate all 16 device switches.
-    - REVISED - Scanner routine improved.
-    - REVISED - Various minor improvements and fixes.
-    - FIXED - Scenes now work with Pulsetime set on a Device.
-	- FIXED - Device Consumption error in v.3.5.9.
+        - UPDATED - Upgraded Power Charts, including Generation/Consumption flag on Power Devices.
+        - ADDED   - Support for Tasmota SWITCHES, can now monitor Tasmota Switch States.
+        - CHANGED - Relays now referenced as 'Relay', Switches referenced as 'Switch'.
     </releaseNotes>
   </update>
 </AppUpdater>

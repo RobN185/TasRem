@@ -1,13 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.6.0</latestVersion>
-    <latestVersionCode>30600</latestVersionCode>
+    <latestVersion>3.6.1</latestVersion>
+    <latestVersionCode>30601</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	RELEASE NOTES
-        - UPDATED - Upgraded Power Charts, including Generation/Consumption flag on Power Devices.
-        - ADDED   - Support for Tasmota SWITCHES, can now monitor Tasmota Switch States.
-        - CHANGED - Relays now referenced as 'Relay', Switches referenced as 'Switch'.
+        - FIXED - Group Power Charts, total for all devices now on chart.
     </releaseNotes>
   </update>
 </AppUpdater>

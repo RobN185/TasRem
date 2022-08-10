@@ -6,11 +6,12 @@
     <releaseNotes>
 	RELEASE NOTES
 	- UPDATED - New UI with icon menus.
-    - UPDATED - Re-order device tiles by active Drag/Drop (Premium Version).
+    - UPDATED - Re-order device tiles by "active Drag/Drop".
     - IMPROVED - Operation speed improved.
     - ADDED - Swipe down to refresh group device lists.
 	- UPDATED - Power monitor devices can be set to monitor Energy In or Out (eg SOLAR = In) 
 	- ADDED - Annual Power Totals by Month charts.
+	- ADDED - Polish language support.
     </releaseNotes>
   </update>
 </AppUpdater>

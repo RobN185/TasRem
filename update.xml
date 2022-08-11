@@ -6,8 +6,8 @@
     <releaseNotes>
 	RELEASE NOTES
 	- UPDATED - White/Coloured LED Operation.
-    - UPDATED - Widget on Polish Devices.
-	- UPDATED - Widgets auto-update every 30 mins (BETA test)
+    - UPDATED - Widget corners on Polish Devices.
+	- UPDATED - Widgets auto-update every 5 mins
     </releaseNotes>
   </update>
 </AppUpdater>

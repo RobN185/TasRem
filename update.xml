@@ -1,11 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.1.0</latestVersion>
-    <latestVersionCode>40100</latestVersionCode>
+    <latestVersion>4.1.1</latestVersion>
+    <latestVersionCode>40101</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	RELEASE NOTES
-	- UPDATED - Scan routines and Scenes.   
+	PLEASE UPDATE !
+	- REVERTED - Reverted to v.4.0.8 stable release. 
+	( v.4.1.1 = v.4.0.8 )
 	</releaseNotes>
   </update>
 </AppUpdater>

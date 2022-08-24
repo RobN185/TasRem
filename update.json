@@ -1,10 +1,9 @@
 {
-  "latestVersion": "3.5.2",
-  "latestVersionCode": "30502",
-  "url": "https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+  "movies": [
+    {
+      "movie": "Avengers",
+      "year": 2012,
+	  "image": "https://jsonparsingdemo-cec5b.firebaseapp.com/jsonData/images/avengers.jpg"
+    }
   ]
 }

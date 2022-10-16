@@ -1,13 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.2.8</latestVersion>
-    <latestVersionCode>40208</latestVersionCode>
+    <latestVersion>4.3.6</latestVersion>
+    <latestVersionCode>40306</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	New Update Available...
-        FIXED - Analog Sensor "Range" value fixed, and Live Power Notification bug on Android 12+ fixed.
-        ADDED - Support for MT175 (SML) Smart Meter.
-        ADDED - Device Power Comparison Charts (Premium Only).
+		CHANGED - Text Sizes matched to Android Settings Text Sizes.
+        ADDED - Support for upto 3 INA3221 voltage/current/power sensors on Ic2 bus.
 	</releaseNotes>
   </update>
 </AppUpdater>

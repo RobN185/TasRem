@@ -1,15 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.4.2</latestVersion>
-    <latestVersionCode>40402</latestVersionCode>
+    <latestVersion>4.5.0</latestVersion>
+    <latestVersionCode>40500</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	New Update Available...
-        ADDED - To allow support for ANDROID 12+, Import/Export TAS Data now uses the default File Manager.
-        ADDED - Total Watts Value added to Group Title when Power Devices are in the Group.
-        CHANGED - New Text size options in SETTINGS are independent of the Font Sizes in Android Settings.
-        CHANGED - Device Names and Power Indicators updated when a device image is used.
-		CHANGED - Device Names can be as long as required.
+	ADDED - Linear Regression Power and Cost Prediction on Annual Power Charts.
+	ADDED - Much more detail added to Assistance/Help screen.
 	</releaseNotes>
   </update>
 </AppUpdater>

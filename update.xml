@@ -1,14 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.5.11</latestVersion>
-    <latestVersionCode>40511</latestVersionCode>
+    <latestVersion>4.6.0</latestVersion>
+    <latestVersionCode>40600</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	New Update Available...
-	FIXED - Various minor bugfixes
-    ADDED - Support for Shelly 3EM 3-phase Power Monitor
-    ADDED - Option to allow "https" calls (not SSL) needs SSL Dyn DNS or similar
-	CHANGED - Device text made darker *** added 14/11/2022
+	ADDED - Support for Sonoff RF Bridge - 16 RF toggle switches.
+	ADDED - Support for A0-A4 Analog Ranges.
+	CHANGE - If Storage Permission is refused permanently, it can be reset in Android Settings.
 	</releaseNotes>
   </update>
 </AppUpdater>

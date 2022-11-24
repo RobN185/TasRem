@@ -1,13 +1,14 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.6.0</latestVersion>
-    <latestVersionCode>40600</latestVersionCode>
+    <latestVersion>4.6.3</latestVersion>
+    <latestVersionCode>40603</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	New Update Available...
 	ADDED - Support for Sonoff RF Bridge - 16 RF toggle switches.
-	ADDED - Support for A0-A4 Analog Ranges.
+	ADDED - Support for A0-A4 and Range1-Range4 Analog Ranges.
 	CHANGE - If Storage Permission is refused permanently, it can be reset in Android Settings.
+	FIXED - Various minor UI translations and updates
 	</releaseNotes>
   </update>
 </AppUpdater>

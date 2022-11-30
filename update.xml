@@ -1,14 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.6.5</latestVersion>
-    <latestVersionCode>40605</latestVersionCode>
+    <latestVersion>4.6.8</latestVersion>
+    <latestVersionCode>40608</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	New Update Available...
-	ADDED - Support for Sonoff RF Bridge - 16 RF toggle switches (send RF).
-	ADDED - Support for A0-A4 and Range1-Range4 Analog Ranges.
-	CHANGE - If Storage Permission is refused permanently, it can be reset in Android Settings.
-	FIXED - Various minor UI translations and updates
+	CHANGED - Tasmota FriendlyName updating only takes place if the Device is a Relay.
+	ADDED - Base charge included for kWh costings.
 	</releaseNotes>
   </update>
 </AppUpdater>

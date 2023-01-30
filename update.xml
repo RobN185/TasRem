@@ -1,15 +1,17 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.8.0</latestVersion>
-    <latestVersionCode>40800</latestVersionCode>
+    <latestVersion>4.8.1</latestVersion>
+    <latestVersionCode>40801</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	New Update Available...
+	v.4.8.0 -
 	UPDATED - Sensor text values can be User-Defined in Edit Device Dialog Screen.
 	UPDATED - Improved Tasmota Device and Sensor Recognition, many more devices and sensors supported.
 	UPDATED - Qty of visible MEM values can be set for individual devices (see Edit Device Dialog Screen).
 	CHANGED - Text sizes increased slightly for all sensors values.
 	CHANGED - Database and TAS file format has been changed. (Older TAS files are still supported)
+	v.4.8.1 -
+	BUGFIX - RGB LED and Power Monitor Crash bug fixed.
 	</releaseNotes>
   </update>
 </AppUpdater>

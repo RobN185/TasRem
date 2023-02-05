@@ -1,13 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.8.7</latestVersion>
-    <latestVersionCode>40807</latestVersionCode>
+    <latestVersion>4.8.9</latestVersion>
+    <latestVersionCode>40809</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	v.4.8.7
-	FIXED - Password bug on Device Timers now fixed.
-	ADDED - Sensor Value Units can now be user defined - see Edit Device Dialog.
-	ADDED - Troubleshooting Section to Assistance Screens.
+	v.4.8.9
+	ADDED - Relays can now be set to have a Confirm Toggle Dialog when clicked, to prevent accidental switching of critical devices.
 	</releaseNotes>
   </update>
 </AppUpdater>

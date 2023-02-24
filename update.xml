@@ -1,12 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.9.0</latestVersion>
-    <latestVersionCode>40900</latestVersionCode>
+    <latestVersion>4.9.1</latestVersion>
+    <latestVersionCode>40901</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
 	v.4.9.0
     FIXED - Minor bugfixes.
     ADDED - Devices can now have combination of LED/RELAYS and Sensors on same device (SetOption68 0 required)
+	ADDED - Devices can now have multiple PWM devices/RELAYS and Sensors on same device (SetOption68 1 required)
 	</releaseNotes>
   </update>
 </AppUpdater>

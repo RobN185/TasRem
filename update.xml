@@ -1,15 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.9.3</latestVersion>
-    <latestVersionCode>40903</latestVersionCode>
+    <latestVersion>4.9.6</latestVersion>
+    <latestVersionCode>40906</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	v.4.9.3
+	v.4.9.6
     FIXED - Minor bugfixes.
-    ADDED - Devices can now have combination of LED/RELAYS and Sensors on same device (SetOption68 0 required)
-	ADDED - Devices can now have multiple PWM devices/RELAYS and Sensors on same device (SetOption68 1 required)
-	ADDED - Home Screen Widget can now switch LED and PWM relays.
-    ADDED - Scenes can now switch LED and PWM relays.
 
 	</releaseNotes>
   </update>

@@ -1,12 +1,11 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.9.6</latestVersion>
-    <latestVersionCode>40906</latestVersionCode>
+    <latestVersion>4.9.11</latestVersion>
+    <latestVersionCode>40911</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	v.4.9.6
-    FIXED - Minor bugfixes.
-
+	v.4.9.11
+	FIXED - The ability to add an image did not work on some devices, this has now been fixed.
 	</releaseNotes>
   </update>
 </AppUpdater>

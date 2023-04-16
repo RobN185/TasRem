@@ -1,11 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>4.9.11</latestVersion>
-    <latestVersionCode>40911</latestVersionCode>
+    <latestVersion>4.9.12</latestVersion>
+    <latestVersionCode>40912</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasmotaremota</url>
     <releaseNotes>
-	v.4.9.11
-	FIXED - The ability to add an image did not work on some devices, this has now been fixed.
+	v.4.9.12
+        CHANGED - To save space, all trailing ".0" have been removed from displayed sensor values.
+        CHANGED - Text input fields have been made clearer in dialog screens.
 	</releaseNotes>
   </update>
 </AppUpdater>

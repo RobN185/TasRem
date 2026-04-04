@@ -4,9 +4,22 @@
     <latestVersionCode>99999</latestVersionCode>
     <url>https://play.google.com/store/apps/details?id=com.robtech.tasremv2</url>
     <releaseNotes>
-Development of the original TasmotaRemota app has sadly ended due to stricter requirements in recent Android updates.
-The good news? We have a brand new app : Tasmobile HTTP. 
-It has been 100% rewritten for the latest standards, giving you more features and a modern feel.
+Development of TasmotaRemota has ended due to Android 16's stricter requirements (SDK 36).
+The current version remains stable and robust, and will continue to work perfectly on Android 7.0 to 15.
+For Android 16+ users: We've built a completely new app — Tasmobile HTTP.
+It is also compatible with Android 7.0 - 15, so here the choice is yours.
+It has been 100% rewritten for modern standards, with a fresh interface and powerful new features:
+	- Unlimited groups,
+	- One-click scenes (RGB, brightness, color temp, relay toggles) for lighting presets,
+	- ESP32 energy/sensor logging & charting (14 days & 24h) using Berry Script,
+	- ESP8266 logging (24h) using custom Rules,
+	- Tasmota Rule Wizard (write Rules without the need to know the syntax and command structure),
+	- Daily energy totals for smart sockets etc.
+	- Tasmota Device network overview (IP addresses, relay numbers, sensors, firmware, hardware, etc),
+	- Auto timezone setup, based on location extracted from phone or tablet,
+	- 'Wear OS' smartwatch support for relay control and sensor values
+
+Search for 'Tasmobile HTTP' on Playstore for full details.
 	</releaseNotes>
   </update>
 </AppUpdater>
